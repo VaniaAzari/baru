@@ -1,0 +1,34 @@
+1. 	SBM adalah tools untuk mengukur tingkat kesehatan bisnis yang mana bisnis yang sedang 
+kita jalankan.SBM juga dapat digunakan untuk proses pengembangan dan perbaikan bisnis
+dengan cara yang lebih terstruktur.Bagi calon pengusaha, maka SBM ini bisa digunakan 
+untuk merancang sebuah usaha yang ingin anda jalankan dan mengurangi resiko 
+untuk gagal di awal anda menjalankannya.
+Smart Business Map (SBM), yaitu:
+	1. Playing Field
+	2. Market Landscape
+	3. Operational Profitability
+
+2.Dalam membuka sebuah bisnis, ada hal-hal yang harus di perhatika dalam bisnis, yaitu:
+	- Ide,Model, Target pasar,Iklan,Survey, Keunikan Produk, Sumber Daya Manusia
+	
+3. Ada 5 langkah persiapan dalam memulai bisnis:
+	a. Apa masalah yang ingin kita selesaikan dalam bisnis kita
+		problem -----> need -----> buy
+	b. Siapa yang punya masalah (Master Segmentation), dari segi:
+		1. Geographic
+		2. Psychograpic
+		3. Demographic		
+		4. Behaviour / Kebiasaan
+	c. Ide kita apa ( Solusi yang pas dan valid )
+		Bagaimana cara membuat solusi?
+			- cari solusi baru
+			- cari titik lemah dari solusi yang sudah ada
+	d. Market kita otu sebesar apa sih
+	e. Faktor apa yang mempengaruhi dalam bisnis kita, yaitu
+		1. Pemerintah
+		2. Kompetitor
+		3. LSM
+		4. Supplier
+		5. Pelanggan
+		6. Teknologi
+		7. Bisnis makro
